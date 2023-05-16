@@ -1,0 +1,5 @@
+name: MCServerStatus4Discord
+version: '${project.version}'
+main: com.wayla.mcserverstatus4discord.MCServerStatus4Discord
+api-version: 1.19
+load: STARTUP
